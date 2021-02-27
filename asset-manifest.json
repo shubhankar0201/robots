@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RobotApps/static/css/main.cc74e2b5.chunk.css",
+    "main.js": "/RobotApps/static/js/main.1b3fb4ee.chunk.js",
+    "main.js.map": "/RobotApps/static/js/main.1b3fb4ee.chunk.js.map",
+    "runtime-main.js": "/RobotApps/static/js/runtime-main.e24a4e51.js",
+    "runtime-main.js.map": "/RobotApps/static/js/runtime-main.e24a4e51.js.map",
+    "static/css/2.31461e4f.chunk.css": "/RobotApps/static/css/2.31461e4f.chunk.css",
+    "static/js/2.7a29f68c.chunk.js": "/RobotApps/static/js/2.7a29f68c.chunk.js",
+    "static/js/2.7a29f68c.chunk.js.map": "/RobotApps/static/js/2.7a29f68c.chunk.js.map",
+    "static/js/3.7d165fa2.chunk.js": "/RobotApps/static/js/3.7d165fa2.chunk.js",
+    "static/js/3.7d165fa2.chunk.js.map": "/RobotApps/static/js/3.7d165fa2.chunk.js.map",
+    "index.html": "/RobotApps/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/RobotApps/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.cc74e2b5.chunk.css.map": "/RobotApps/static/css/main.cc74e2b5.chunk.css.map",
+    "static/js/2.7a29f68c.chunk.js.LICENSE.txt": "/RobotApps/static/js/2.7a29f68c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RobotApps/static/media/SEGA.d1daf403.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e24a4e51.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.7a29f68c.chunk.js",
+    "static/css/main.cc74e2b5.chunk.css",
+    "static/js/main.1b3fb4ee.chunk.js"
+  ]
+}
